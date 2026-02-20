@@ -1,0 +1,30 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/business-logic-and-refactoring",
+    "feat/login-page",
+    "feat/sidebar",
+    "fix/sidebar",
+    "fix/ui-refactor",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/business-logic-and-refactoring": "main",
+    "feat/login-page": "main",
+    "feat/sidebar": "main",
+    "fix/sidebar": "main",
+    "fix/ui-refactor": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/business-logic-and-refactoring",
+    "feat/login-page",
+    "feat/sidebar",
+    "fix/sidebar",
+    "fix/ui-refactor",
+    "origin"
+  ]
+}
